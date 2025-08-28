@@ -20,3 +20,7 @@ This repository is a guide for mastering advanced Spark Performance Tuning and O
 | AQE & Broadcast Joins                 | [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](/spark/1_data_skew/3_solving_data_skew_aqe_broadcast.ipynb) |
 | Dynamic Partition Pruning                 | [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](/spark/5_1_dynamic_partition_pruning.ipynb) |
 
+
+
+Credit goes to the first author:
+- Afaque Ahmad - [GitHub](https://github.com/afaqueahmad7117/)
